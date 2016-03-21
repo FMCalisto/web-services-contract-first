@@ -2,7 +2,7 @@
 
 [<<< DSLabs](https://github.com/FMCalisto/DSLabs)
 
-<img src="assets/image1.png" alt="Web Services" align="center" width="50%"/>
+<img src="assets/image1.png" alt="Web Services" align="center" />
 
 ## Preface
 
